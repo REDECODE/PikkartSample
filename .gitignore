@@ -301,3 +301,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# The component folder can be ignored because of Package Restore
+**/Components/*
